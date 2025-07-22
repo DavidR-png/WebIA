@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://davidr-png.github.io/WebIA/
+Sitemap: https://davidr-png.github.io/WebIA
